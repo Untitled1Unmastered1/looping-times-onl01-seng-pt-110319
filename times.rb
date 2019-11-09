@@ -1,7 +1,8 @@
 def using_times
 	counter = 0
 	
-	puts 
+	7.times do 
+	puts "Wingardium Leviosa"
 end
 
 
